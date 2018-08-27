@@ -6,8 +6,8 @@ Data driven decisions have become prominent in multiple sectors over the decades
 One such sector that influences a wide range of population and owns a major share in the market is retail analytics. The way we shop has evolved over the decades from going to markets to purchase what we need to now being persuaded to purchase what we might want. Earlier there were just two stakeholders in the market, the industry and the customer. With time, technology and digital revolution we have seen the emergence of a third stakeholder, “data” 
 
 Retail today is being shaped by empowered customer who demands 
-convinience , 
-customization 
+Convinience 
+Customization 
 Collaboration 
 Consistency 
 To get this right retailers need to empower every decision maker with relevant and accurate insights instantly 
