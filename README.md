@@ -40,6 +40,13 @@ Harry owns a toy firm. He has a seller’s account in Amazon, Flipkart and Paytm
 Solution: 
 Using Spark Streaming to dump data from multiple sources in the Hadoop Cluster. Followed by predictive analysis by machine learning models in Python. 
 
+## "Customer Segmentation" 
+
+A big e-commerce firm, BuyFromMe wants to know their customers better. This would help them push personalized campaigns, introduce new products while focusing on different customer segments. 
+
+Solution: 
+The analyst proposes to seggregate customers on grounds of a recency,frequency, model, wherain the score obtained against the RFM matrix denotes the segment of the customer. 
+
 
 ## “Let me clear my stocks" : Inventory Management 
 
